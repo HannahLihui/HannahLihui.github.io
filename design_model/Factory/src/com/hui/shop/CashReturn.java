@@ -1,0 +1,22 @@
+package com.hui.shop;
+
+class CashReturn extends CashSuper{
+	private double moneyReturn;
+	private double moneyCondition;
+	public CashReturn(){
+		this.moneyCondition=0;
+		this.moneyReturn=0;
+	}
+	public CashReturn(double rm){
+		this.moneyReturn=rm;
+		
+	}
+	@Override
+	public double acceptCash(double money) {
+		// TODO Auto-generated method stub
+		if(money>=moneyCondition)
+			money=money-moneyReturn;
+		return money;
+	}
+	
+}

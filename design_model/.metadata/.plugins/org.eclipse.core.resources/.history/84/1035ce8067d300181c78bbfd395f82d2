@@ -1,0 +1,30 @@
+package com.hui.shop;
+
+
+
+
+
+public class CashContext {
+	
+	double total=0;
+	CashSuper cs=null;
+	public CashContext(String type){
+		if(type=="正常收费"||type.equals("正常收费")){
+			cs=new CashNormal();
+		}
+		else if(type=="满300减59"||type.equals("满300减59")){
+			cs=new CashReturn();
+		}
+		else if(type=="打八折"||type.equals("打八折")){
+			cs=new CashRebate();
+		}
+	}
+	public double getResuult(double money){
+		return cs.acceptCash(money);
+		
+	}
+	//客户窗体程序
+
+	
+
+}

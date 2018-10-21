@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="44" version="2.0">
+<workbench progressCount="60" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="114" y="114">
 <fastViewData fastViewLocation="1024"/>
@@ -38,13 +38,68 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OperationFactory.java" partName="OperationFactory.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/OperationFactory.java" title="OperationFactory.java" tooltip="Factory/src/com/hui/calculate/OperationFactory.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OperationFactory.java" partName="OperationFactory.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/OperationFactory.java" title="OperationFactory.java" tooltip="Factory/src/com/hui/calculate/OperationFactory.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/calculate/OperationFactory.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2390" selectionTopPixel="2537"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="57" selectionTopPixel="628"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashContext.java" partName="CashContext.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/shop/CashContext.java" title="CashContext.java" tooltip="Factory/src/com/hui/shop/CashContext.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/shop/CashContext.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="184"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashSuper.java" partName="CashSuper.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/shop/CashSuper.java" title="CashSuper.java" tooltip="Factory/src/com/hui/shop/CashSuper.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/shop/CashSuper.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="62" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashNormal.java" partName="CashNormal.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/shop/CashNormal.java" title="CashNormal.java" tooltip="Factory/src/com/hui/shop/CashNormal.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/shop/CashNormal.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="182" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashRebate.java" partName="CashRebate.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/shop/CashRebate.java" title="CashRebate.java" tooltip="Factory/src/com/hui/shop/CashRebate.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/shop/CashRebate.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="323" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashReturn.java" partName="CashReturn.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/shop/CashReturn.java" title="CashReturn.java" tooltip="Factory/src/com/hui/shop/CashReturn.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/shop/CashReturn.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="255" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Operation.java" partName="Operation.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/Operation.java" title="Operation.java" tooltip="Factory/src/com/hui/calculate/Operation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/calculate/Operation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="46" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AddOperation.java" partName="AddOperation.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/AddOperation.java" title="AddOperation.java" tooltip="Factory/src/com/hui/calculate/AddOperation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/calculate/AddOperation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="334" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SubOperation.java" partName="SubOperation.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/SubOperation.java" title="SubOperation.java" tooltip="Factory/src/com/hui/calculate/SubOperation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/calculate/SubOperation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="336" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiOperation.java" partName="MultiOperation.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/MultiOperation.java" title="MultiOperation.java" tooltip="Factory/src/com/hui/calculate/MultiOperation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/calculate/MultiOperation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="340" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DivOperation.java" partName="DivOperation.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/calculate/DivOperation.java" title="DivOperation.java" tooltip="Factory/src/com/hui/calculate/DivOperation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/calculate/DivOperation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="336" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Strategy.java" partName="Strategy.java" path="D:/Myeclipse/design_model/Factory/src/com/hui/shop/Strategy.java" title="Strategy.java" tooltip="Factory/src/com/hui/shop/Strategy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Factory/src/com/hui/shop/Strategy.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2521" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -111,7 +166,7 @@
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.genuitec.myeclipse.perspective.MyEclipsePerspectiveFactory" id="com.genuitec.myeclipse.perspective.myeclipseperspective" label="MyEclipse Java Enterprise"/>
 <alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
@@ -223,48 +278,33 @@
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="com.genuitec.eclipse.ast.deploy.core.serverview"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="cvslocation">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.749497" ratioLeft="745" ratioRight="249" relationship="2" relative="cvslocation">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.749497" ratioLeft="745" ratioRight="249" relationship="2" relative="cvslocation">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.19919518" ratioLeft="198" ratioRight="796" relationship="2" relative="cvslocation"/>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@d6f628" ratio="0.75" ratioLeft="597" ratioRight="199" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@d6f628" ratio="0.75" ratioLeft="597" ratioRight="199" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@bade60" ratio="0.549273" ratioLeft="340" ratioRight="279" relationship="4" relative="org.eclipse.ui.internal.ViewStack@d6f628">
-<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@bade60" ratio="0.549273" ratioLeft="340" ratioRight="279" relationship="4" relative="org.eclipse.ui.internal.ViewStack@d6f628">&#x0A;<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="bottom" ratio="0.7495961" ratioLeft="464" ratioRight="155" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<info folder="true" part="bottom" ratio="0.7495961" ratioLeft="464" ratioRight="155" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="com.genuitec.eclipse.ui.HTMLView" label="Web Browser"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="com.genuitec.eclipse.ast.deploy.core.serverview" label="Servers"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
@@ -272,23 +312,17 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="topleft" ratio="0.3990307" ratioLeft="247" ratioRight="372" relationship="4" relative="cvslocation">
-<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<info folder="true" part="topleft" ratio="0.3990307" ratioLeft="247" ratioRight="372" relationship="4" relative="cvslocation">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="bottomleft" ratio="0.549273" ratioLeft="340" ratioRight="279" relationship="4" relative="topleft">
-<folder activePageID="uky.article.imageviewer.views.ImageView" appearance="2" expanded="2">
-<page content="uky.article.imageviewer.views.ImageView" label="Image Preview"/>
+<info folder="true" part="bottomleft" ratio="0.549273" ratioLeft="340" ratioRight="279" relationship="4" relative="topleft">&#x0A;<folder activePageID="uky.article.imageviewer.views.ImageView" appearance="2" expanded="2">&#x0A;<page content="uky.article.imageviewer.views.ImageView" label="Image Preview"/>
 <page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
@@ -474,66 +508,167 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/Calculater.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/Operation.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/OperationFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/shop/CashContext.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/shop/CashSuper.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/shop/CashRebate.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/shop/CashReturn.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/Operation.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/AddOperation.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/SubOperation.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/MultiOperation.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/calculate/DivOperation.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Factory/src/com/hui/shop/Strategy.java"/>
 </editors>
-<item historyLabel="Calculater.java" index="0">
+<item historyLabel="CashReturn.java" index="4">
+<position info="not_deleted" x="441" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="284" y="0"/>
+</item>
+<item historyLabel="OperationFactory.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="Operation.java" index="5">
+<position info="not_deleted" x="46" y="0"/>
+</item>
+<item historyLabel="OperationFactory.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="AddOperation.java" index="6">
+<position info="not_deleted" x="334" y="0"/>
+</item>
+<item historyLabel="Operation.java" index="5">
+<position info="not_deleted" x="46" y="0"/>
+</item>
+<item historyLabel="OperationFactory.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="SubOperation.java" index="7">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="Operation.java" index="5">
+<position info="not_deleted" x="46" y="0"/>
+</item>
+<item historyLabel="OperationFactory.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="MultiOperation.java" index="8">
+<position info="not_deleted" x="340" y="0"/>
+</item>
+<item historyLabel="DivOperation.java" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Calculater.java" index="0">
+<item historyLabel="OperationFactory.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="DivOperation.java" index="9">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="SubOperation.java" index="7">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="OperationFactory.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="Operation.java" index="5">
+<position info="not_deleted" x="46" y="0"/>
+</item>
+<item historyLabel="MultiOperation.java" index="8">
+<position info="not_deleted" x="340" y="0"/>
+</item>
+<item historyLabel="DivOperation.java" index="9">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="AddOperation.java" index="6">
+<position info="not_deleted" x="334" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="284" y="0"/>
+</item>
+<item historyLabel="CashRebate.java" index="3">
+<position info="not_deleted" x="323" y="0"/>
+</item>
+<item historyLabel="CashReturn.java" index="4">
+<position info="not_deleted" x="441" y="0"/>
+</item>
+<item historyLabel="CashSuper.java" index="2">
+<position info="not_deleted" x="62" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="284" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="CashReturn.java" index="4">
+<position info="not_deleted" x="259" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="656" y="0"/>
+</item>
+<item historyLabel="CashReturn.java" index="4">
+<position info="not_deleted" x="255" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="323" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="742" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="742" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2529" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="742" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2529" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="352" y="0"/>
+</item>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="742" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="352" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2098" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2082" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2079" y="0"/>
+</item>
+<item historyLabel="Strategy.java" index="10">
 <position/>
 </item>
-<item historyLabel="Operation.java" index="1">
-<position info="not_deleted" x="457" y="0"/>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2257" y="0"/>
 </item>
-<item historyLabel="Operation.java" index="1">
-<position info="not_deleted" x="455" y="0"/>
+<item historyLabel="CashContext.java" index="1">
+<position info="not_deleted" x="302" y="0"/>
 </item>
-<item historyLabel="Operation.java" index="1">
-<position/>
+<item historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2257" y="0"/>
 </item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="1798" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2170" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2144" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2084" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="153" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="628" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2703" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2695" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2703" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2476" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2736" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2756" y="0"/>
-</item>
-<item historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2387" y="0"/>
-</item>
-<item active="true" historyLabel="OperationFactory.java" index="2">
-<position info="not_deleted" x="2390" y="0"/>
+<item active="true" historyLabel="Strategy.java" index="10">
+<position info="not_deleted" x="2466" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -552,6 +687,39 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Strategy.java" tooltip="Factory/src/com/hui/shop/Strategy.java">
+<persistable path="/Factory/src/com/hui/shop/Strategy.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DivOperation.java" tooltip="Factory/src/com/hui/calculate/DivOperation.java">
+<persistable path="/Factory/src/com/hui/calculate/DivOperation.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiOperation.java" tooltip="Factory/src/com/hui/calculate/MultiOperation.java">
+<persistable path="/Factory/src/com/hui/calculate/MultiOperation.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SubOperation.java" tooltip="Factory/src/com/hui/calculate/SubOperation.java">
+<persistable path="/Factory/src/com/hui/calculate/SubOperation.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AddOperation.java" tooltip="Factory/src/com/hui/calculate/AddOperation.java">
+<persistable path="/Factory/src/com/hui/calculate/AddOperation.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Operation.java" tooltip="Factory/src/com/hui/calculate/Operation.java">
+<persistable path="/Factory/src/com/hui/calculate/Operation.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashReturn.java" tooltip="Factory/src/com/hui/shop/CashReturn.java">
+<persistable path="/Factory/src/com/hui/shop/CashReturn.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashRebate.java" tooltip="Factory/src/com/hui/shop/CashRebate.java">
+<persistable path="/Factory/src/com/hui/shop/CashRebate.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashNormal.java" tooltip="Factory/src/com/hui/shop/CashNormal.java">
+<persistable path="/Factory/src/com/hui/shop/CashNormal.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashSuper.java" tooltip="Factory/src/com/hui/shop/CashSuper.java">
+<persistable path="/Factory/src/com/hui/shop/CashSuper.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CashContext.java" tooltip="Factory/src/com/hui/shop/CashContext.java">
+<persistable path="/Factory/src/com/hui/shop/CashContext.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculater.java" tooltip="Factory/src/com/hui/calculate/Calculater.java">
 <persistable path="/Factory/src/com/hui/calculate/Calculater.java"/>
 </file>

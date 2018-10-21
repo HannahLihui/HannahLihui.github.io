@@ -1,0 +1,5 @@
+package com.hui.decoratorshow;
+
+public class Person {
+
+}

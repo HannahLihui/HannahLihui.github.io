@@ -1,0 +1,5 @@
+package com.hui.decorator;
+
+public class Component {
+
+}
